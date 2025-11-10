@@ -1,0 +1,5 @@
+{
+  "name": "AI Touch",
+  "description": "An AI-powered web application that allows users to modify the design of a photographed space by uploading images. Features a before-and-after showcase and a comprehensive admin panel.",
+  "requestFramePermissions": []
+}
